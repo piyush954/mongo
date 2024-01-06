@@ -1,0 +1,9 @@
+.card a{
+    font-weight: 600;
+    color: rgb(110, 57, 203);
+}
+
+.active{
+    background-color: rgb(110, 57, 203, 0.2);
+}
+

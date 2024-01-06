@@ -1,0 +1,23 @@
+[
+  {
+    "per": "+26.31%",
+    "num": "256",
+    "prime": "primeColorFont",
+    "Paragraph": "Avreage Likes",
+    "key": 1
+  },
+  {
+    "per": "+26.31%",
+    "num": "147",
+    "prime": "primeColorFont",
+    "Paragraph": "Comments Recived",
+    "key": 2
+  },
+  {
+    "per": "+26.31%",
+    "num": "359",
+    "prime": "redColor",
+    "Paragraph": "Av. Engagement rate",
+    "key": 3
+  }
+]

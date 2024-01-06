@@ -1,0 +1,36 @@
+.Border {
+    border: 0px solid #000;
+}
+
+.PurpleColor {
+    color: #800080;
+}
+
+.LightPurpleColor {
+    color: #ff97fa;
+}
+
+.LightPurpleColor:hover {
+    color: #800080;
+}
+
+.PurpleBG {
+    background-color: purple;
+}
+
+.RedColor {
+    color: red;
+}
+
+.heightNinty {
+    max-height: 89.8vh;
+}
+
+::-webkit-scrollbar {
+    width: .2rem;
+    height: .2rem;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: purple;
+}
